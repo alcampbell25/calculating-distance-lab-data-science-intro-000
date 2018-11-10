@@ -1,1 +1,9 @@
-[]
+[
+  "future_tests/index_test.py::TestDistance::test_avenue_distance",
+  "future_tests/index_test.py::TestDistance::test_distance",
+  "future_tests/index_test.py::TestDistance::test_distance_all",
+  "future_tests/index_test.py::TestDistance::test_distance_between_neighbors_squared",
+  "future_tests/index_test.py::TestDistance::test_distance_with_neighbor",
+  "future_tests/index_test.py::TestDistance::test_nearest_neighbors",
+  "future_tests/index_test.py::TestDistance::test_street_distance"
+]
